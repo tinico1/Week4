@@ -1,0 +1,12 @@
+name: FirstEx
+title: FirstEx
+username:
+account: tinico1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 357590
+bundleId: 1418733
+url: https://tinico1.shinyapps.io/FirstEx/
+when: 1528459448.18473
+asMultiple: FALSE
+asStatic: FALSE

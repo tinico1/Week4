@@ -1,0 +1,13 @@
+name: FirstEx1
+title: FirstEx1
+username:
+account: tinico1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 357603
+bundleId: 1418821
+url: https://tinico1.shinyapps.io/FirstEx1/
+when: 1528462491.89658
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Datos/Cancer.txt
